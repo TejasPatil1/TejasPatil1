@@ -15,12 +15,13 @@ Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects th
 ## 💻 Projects
 
 - [Programming for GenZ](https://student-initiative-gng.vercel.app/)
--
-–**Programming for GenZ (PFG)** is a student-focused platform that makes learning coding fun and practical.  
--It provides interactive tutorials, challenges, and real-world projects to build skills step by step.  
--PFG emphasizes hands-on experience, helping students apply concepts in meaningful ways.  
--The platform supports multiple programming languages and modern web development tools.  
--Its goal is to empower the next generation of developers to innovate and create confidently.
+- 
+• **Programming for GenZ (PFG)** is a student-focused platform that makes learning coding fun and practical.  
+• Provides interactive tutorials, challenges, and real-world projects to build skills step by step.  
+• Emphasizes hands-on experience, helping students apply concepts in meaningful ways.  
+• Supports multiple programming languages and modern web development tools.  
+• Aims to empower the next generation of developers to innovate and create confidently.
+
 
 
 
