@@ -1,5 +1,4 @@
-# Hi, I'm Tejas 👋
-
+# Hi, I'm Tejas 👋  
 Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects that solve real problems, experimenting with new technologies, and sharing knowledge with others.
 
 ---
@@ -12,29 +11,22 @@ Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects th
 
 ---
 
-## 💻 Projects
+## 🚀 Projects  
 
-<a href="https://student-initiative-gng.vercel.app/" 
-   style="color: #1E90FF; font-size: 20px; text-decoration: none;">
-   Programming for GenZ (PFG)
-</a>
+### [🚀 Programming for GenZ (PFG)](https://student-initiative-gng.vercel.app/)  
+A student-focused platform that makes learning coding fun and practical.  
+- Provides interactive tutorials, challenges, and real-world projects to build skills step by step.  
+- Emphasizes hands-on experience, helping students apply concepts in meaningful ways.  
+- Supports multiple programming languages and modern web development tools.  
+- Aims to empower the next generation of developers to innovate and create confidently.
 
-- 
-• **Programming for GenZ (PFG)** is a student-focused platform that makes learning coding fun and practical.  
-• Provides interactive tutorials, challenges, and real-world projects to build skills step by step.  
-• Emphasizes hands-on experience, helping students apply concepts in meaningful ways.  
-• Supports multiple programming languages and modern web development tools.  
-• Aims to empower the next generation of developers to innovate and create confidently.
-
-
-
+ 
 
 ---
 
 ## 📫 Contact
 
-- **LinkedIn:** www.linkedin.com/in/tejas-patil-a6765935a  
+- **LinkedIn:** [www.linkedin.com/in/tejas-patil-a6765935a](https://www.linkedin.com/in/tejas-patil-a6765935a)  
 - **Email:** tp396327@gmail.com  
 
 ---
-
