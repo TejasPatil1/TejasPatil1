@@ -21,7 +21,7 @@ Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects th
 
 ## 📫 Contact
 
-- **LinkedIn:** [www.linkedin.com/in/tejas-patil-a6765935a]  
+- **LinkedIn:** www.linkedin.com/in/tejas-patil-a6765935a  
 - **Email:** your-email@example.com  
 
 ---
