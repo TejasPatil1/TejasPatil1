@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tejas 👋
 
-<!--
-**TejasPatil1/TejasPatil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects that solve real problems, experimenting with new technologies, and sharing knowledge with others.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+**Programming & Languages:** Python, C, JavaScript  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Data Science & AI:** Pandas, NumPy, scikit-learn  
+
+---
+
+## 💻 Projects
+
+- [Programming for GenZ](link) – A student-focused platform to learn coding and build real projects.  
+- [AI Chatbot](link) – Conversational AI built with Python for interactive learning.  
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [link]  
+- **Email:** your-email@example.com  
+
+---
+
+*“Learning never exhausts the mind.” – Leonardo da Vinci*
