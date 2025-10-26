@@ -14,16 +14,15 @@ Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects th
 
 ## 💻 Projects
 
-- [Programming for GenZ](link) – A student-focused platform to learn coding and build real projects.  
-- [AI Chatbot](link) – Conversational AI built with Python for interactive learning.  
+- [Programming for GenZ](https://student-initiative-gng.vercel.app/) – A student-focused platform to learn coding and build real projects.  
+
 
 ---
 
 ## 📫 Contact
 
-- **LinkedIn:** [link]  
+- **LinkedIn:** [www.linkedin.com/in/tejas-patil-a6765935a]  
 - **Email:** your-email@example.com  
 
 ---
 
-*“Learning never exhausts the mind.” – Leonardo da Vinci*
