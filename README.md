@@ -13,7 +13,7 @@ Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects th
 
 ## 🚀 Projects  
 
-### [🚀 Programming for GenZ (PFG)](https://student-initiative-gng.vercel.app/)  
+### [🚀 Student intiative GNG](https://student-initiative-gng.vercel.app/)  
 A student-focused platform that makes learning coding fun and practical.  
 - Provides interactive tutorials, challenges, and real-world projects to build skills step by step.  
 - Emphasizes hands-on experience, helping students apply concepts in meaningful ways.  
