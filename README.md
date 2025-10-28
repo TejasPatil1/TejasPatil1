@@ -1,12 +1,11 @@
 # Hi, I'm Tejas 👋  
-Aspiring AI/ML developer and full-stack enthusiast. I enjoy building projects that solve real problems, experimenting with new technologies, and sharing knowledge with others.
+Aspiring AI/ML developer and Back-end enthusiast. I enjoy building projects that solve real problems, experimenting with new technologies, and sharing knowledge with others.
 
 ---
 
 ## 🛠 Skills
 
-**Programming & Languages:** Python, C, JavaScript  
-**Frontend:** React, Next.js, Tailwind CSS  
+**Programming & Languages:** Python, C++  
 **Data Science & AI:** Pandas, NumPy, scikit-learn  
 
 ---
