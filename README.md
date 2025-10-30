@@ -3,12 +3,6 @@ Aspiring AI/ML developer and Back-end enthusiast. I enjoy building projects that
 
 ---
 
-## 🛠 Skills
-
-**Programming & Languages:** Python, C++  
-**Data Science & AI:** Pandas, NumPy, scikit-learn  
-
----
 
 ## 🚀 Projects  
 
