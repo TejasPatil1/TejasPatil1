@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on building a strong foundation in AI & Data Science, focusing on Python, NumPy, Pandas, and Machine Learning, while slowly moving toward real-world ML projects. 👯 I’m looking to collaborate on beginner-to-intermediate ML, data analysis, or AI projects where I can learn by building. 🤝 I’m looking for help with best practices in ML workflows, project ideas, and improving problem-solving skills. 🌱 I’m currently learning Pandas deeply, revising NumPy, and preparing to start core Machine Learning concepts. 💬 Ask me about Python basics, Pandas, NumPy, or starting your journey in AI as a student. ⚡ Fun fact: I consistently give ~5 hours daily to learning AI and love breaking complex concepts into simple logic.
-
+* 🔭 Working on AI & Data Science with Python, NumPy, Pandas
+* 👯 Open to collaborate on beginner ML & data projects
+* 🤝 Looking for help with ML workflows and project ideas
+* 🌱 Learning advanced Pandas and ML basics
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.tejaspatil) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/okokok) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tp396327@gmail.com) 
