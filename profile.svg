@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985px" height="530px" viewBox="0 0 985 530" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">           W%vvvv|r||}                 </tspan>
+<tspan x="15" y="50">        @v^:::'''''':::'':v            </tspan>
+<tspan x="15" y="70">    8}v}^^::':'''':''::'''::^%         </tspan>
+<tspan x="15" y="90">  %r^^^''''''::''::'::'''::::v         </tspan>
+<tspan x="15" y="110"> drrr:''''^|v}%%%%%o}}}vv|r^::^        </tspan>
+<tspan x="15" y="130"> r:':''^vo%OO88W888888Od%%oo|:::       </tspan>
+<tspan x="15" y="150"> Or:''|}o%dO8WW@@@@@@W8OOd%o}r:'v      </tspan>
+<tspan x="15" y="170">  :''r}oo%d8WW@@@@@@@@W8OOO%}r:':      </tspan>
+<tspan x="15" y="190">  |''r}%%d8W@@@@@@@@@8ov|||vo}^::      </tspan>
+<tspan x="15" y="210">   ':vr^^^^^r}OW@W8o|rvddd%}|o}^'d     </tspan>
+<tspan x="15" y="230">   |:|rvvvvv}%ovdOr^^^|||vvvo%o^'%     </tspan>
+<tspan x="15" y="250">    :|v^:|^|oo|^%Orvooo}vv|v}vvvr|     </tspan>
+<tspan x="15" y="270">   %^|}vvvvoOd|v8WO|O888888dooo}}8     </tspan>
+<tspan x="15" y="290">    v|oO88888%vO@@@8%o%%oooood%}|d     </tspan>
+<tspan x="15" y="310">     v}}}o%O8}}^|}}v%O@@@@@W8do|ro     </tspan>
+<tspan x="15" y="330">     |}%O8W@@O}voOd%d8@@@@W8O%}|}      </tspan>
+<tspan x="15" y="350">     8|o%d8Ovr|||vvvvv|%WW8O%o}r       </tspan>
+<tspan x="15" y="370">      %vvod}ov|}OOOdooO%8Wd%ovr^       </tspan>
+<tspan x="15" y="390">       %|vooddo}v}}%8@WOdd%}|^^^r      </tspan>
+<tspan x="15" y="410">         |r|}d8W8W@@@@8d}v|^::^^:r}o%  </tspan>
+<tspan x="15" y="430">        |'':^||voooo}}vr::':::::::::^rv</tspan>
+<tspan x="15" y="450">      v^:'''''''''''''''''::':''::::^% </tspan>
+<tspan x="15" y="470">     rrr:'''''''''''''''''':':'':^|    </tspan>
+<tspan x="15" y="490">      }r:''''''::'''''''':::::|o       </tspan>
+<tspan x="15" y="510">           o|r^::::::^r|vo             </tspan>
+</text>
+<text x="410" y="30" fill="#c9d1d9">
+<tspan x="410" y="30"><tspan>tejaspatil@github</tspan><tspan> ----------------------------------------</tspan></tspan>
+<tspan x="410" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">Windows 11, Android, Linux</tspan></tspan>
+<tspan x="410" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">18 years, 0 months, 29 days</tspan></tspan>
+<tspan x="410" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">Miniclay AI</tspan></tspan>
+<tspan x="410" y="110"><tspan class="cc">. </tspan><tspan class="key">Role</tspan><tspan>:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Aspiring AI Systems Engineer</tspan></tspan>
+<tspan x="410" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">VS Code, Jupyter Notebook, Cursor, Claude Code</tspan></tspan>
+<tspan x="410" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="410" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Programming</tspan><tspan>:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Python, C++, JavaScript</tspan></tspan>
+<tspan x="410" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Computer</tspan><tspan>:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="410" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan>.</tspan><tspan class="key">Real</tspan><tspan>:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">English, Hindi, Gujarati</tspan></tspan>
+<tspan x="410" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="410" y="250"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan><tspan>.</tspan><tspan class="key">ML</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">Scikit-learn, XGBoost</tspan></tspan>
+<tspan x="410" y="270"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan><tspan>.</tspan><tspan class="key">DL</tspan><tspan>:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">PyTorch, Neural Networks</tspan></tspan>
+<tspan x="410" y="290"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan><tspan>.</tspan><tspan class="key">LLM</tspan><tspan>:</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">LLMs, Fine-tuning, RAG</tspan></tspan>
+<tspan x="410" y="310"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan><tspan>.</tspan><tspan class="key">Systems</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">MLOps, GPU Computing</tspan></tspan>
+<tspan x="410" y="350"><tspan>- Contact</tspan><tspan> ------------------------------------------------</tspan></tspan>
+<tspan x="410" y="370"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan>.</tspan><tspan class="key">Personal</tspan><tspan>:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">tp396327@gmail.com</tspan></tspan>
+<tspan x="410" y="390"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><a href="https://linkedin.com/in/tejas-patil-a6765935a"><tspan class="value">Tejas Patil</tspan></a></tspan>
+<tspan x="410" y="410"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><a href="https://github.com/TejasPatil1"><tspan class="value">TejasPatil1</tspan></a></tspan>
+<tspan x="410" y="450"><tspan>- GitHub Stats</tspan><tspan> -------------------------------------------</tspan></tspan>
+<tspan x="410" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">0</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">0</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="410" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">0</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> ........ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="410" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan>:</tspan><tspan class="cc"> </tspan><tspan class="value">0</tspan><tspan> ( </tspan><tspan class="addColor">0</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor">0</tspan><tspan class="delColor">--</tspan><tspan> )</tspan></tspan>
+</text>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "github_username": "TejasPatil1",
+  "title": "tejaspatil@github",
+  "birthdate": "2008-10-03",
+
+  "info": [
+    ["OS", "Windows 11, Android, Linux"],
+    ["@uptime", ""],
+    ["Host", "Miniclay AI"],
+    ["Role", "Aspiring AI Systems Engineer"],
+    ["IDE", "VS Code, Jupyter Notebook, Cursor, Claude Code"],
+    [],
+    ["Languages.Programming", "Python, C++, JavaScript"],
+    ["Languages.Computer", "HTML, CSS, JSON, YAML"],
+    ["Languages.Real", "English, Hindi, Gujarati"],
+    [],
+    ["Focus.ML", "Scikit-learn, XGBoost"],
+    ["Focus.DL", "PyTorch, Neural Networks"],
+    ["Focus.LLM", "LLMs, Fine-tuning, RAG"],
+    ["Focus.Systems", "MLOps, GPU Computing"]
+  ],
+
+  "contact_title": "Contact",
+  "contact": [
+    ["Email.Personal", "tp396327@gmail.com"],
+    {
+        "label": "LinkedIn",
+        "display": "Tejas Patil",
+        "url": "https://linkedin.com/in/tejas-patil-a6765935a"
+    },
+    {
+        "label": "GitHub",
+        "display": "TejasPatil1",
+        "url": "https://github.com/TejasPatil1"
+    }
+],
+
+  "stats_title": "GitHub Stats",
+  "panel_x": 410,
+  "panel_chars": 58
+}
