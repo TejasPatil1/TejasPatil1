@@ -11,4 +11,4 @@
 
 ## About me
 
-Write a short intro here.
+AI/ML Engineer · Deep Learning, LLM Infrastructure & MLOps · CS @ Bhagwan Mahavir University
